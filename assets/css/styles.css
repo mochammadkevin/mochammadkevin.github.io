@@ -884,6 +884,10 @@ img {
   .home__data{
     order: 1;
   }
+
+  .contact__container{
+    justify-content: center;
+  }
 }
 
 @media screen and (max-width: 350px) {
@@ -952,6 +956,10 @@ img {
   .testimonial__description{
     text-align: center;
   }
+
+  .contact__container{
+    justify-content: center;
+  }
 }
 
 /* For medium devices */
@@ -971,9 +979,12 @@ img {
 
   .about__container,
   .skills__container,
-  .portfolio__content,
-  .contact__container{
+  .portfolio__content{
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .contact__container{
+    justify-content: center;
   }
 
   .qualification__sections{
@@ -1026,6 +1037,7 @@ img {
   .nav__list{
     display: flex;
     column-gap: 2rem;
+    margin-right: var(--mb-1-5);
   }
 
   .nav__menu{
