@@ -510,20 +510,29 @@ img {
 }
 
 .skills__html{
-  width: 65%;
+  width: 85%;
 }
 
 .skills__css{
-  width: 60%;
+  width: 80%;
 }
 
 .skills__js{
-  width: 40%;
+  width: 70%;
 }
 
 .skills__react{
-  width: 25%;
+  width: 65%;
 }
+
+.skills__next{
+  width: 60%;
+}
+
+.skills__tailwind{
+  width: 70%;
+}
+
 
 .skills__php{
   width: 50%;
@@ -531,6 +540,14 @@ img {
 
 .skills__python{
   width: 45%;
+}
+
+.skills__django{
+  width: 55%;
+}
+
+.skills__figma{
+  width: 75%;
 }
 
 .skills__photoshop{
