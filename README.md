@@ -1,5 +1,5 @@
 # mochammadkevin.github.io
-Hey there! Here, I am building my own portfolio website to showcase my skills in frontend development. As a second-year computer science student at IPB University, I have been honing my skills in HTML, CSS, and JavaScript through both coursework and personal projects.
+Hey there! Here, I am building my own portfolio website to showcase my skills in frontend development. As a third-year computer science student at IPB University, I have been honing my skills in HTML, CSS, and JavaScript through both coursework and personal projects.
 
 I am passionate about staying current with the latest developments in technology and continuously seeking out new ways to expand my knowledge and expertise. This portfolio website is my way of demonstrating my capabilities and highlighting my commitment to growing in the field of technology.
 
